@@ -1,9 +1,9 @@
 Scheme-Interpreter
 ==================
 
-<div style="margin-left: auto; margin-right: auto;">
+<span style="margin-left: auto; margin-right: auto;">
 		![alt tag](https://raw.github.com/aaron-feldman/Scheme-Interpreter/master/example_image.png)
-		</div>
+		</span>
 
 Developing an interpreter for a subset of the Scheme language.
 
