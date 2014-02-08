@@ -1,7 +1,7 @@
 Scheme-Interpreter
 ==================
 
-<span style="margin-left: auto; margin-right: auto;">
+<span align="center">
 		![alt tag](https://raw.github.com/aaron-feldman/Scheme-Interpreter/master/example_image.png)
 		</span>
 
