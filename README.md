@@ -1,7 +1,7 @@
 Scheme-Interpreter
 ==================
 
-![alt tag align="center"](https://raw.github.com/aaron-feldman/Scheme-Interpreter/master/example_image.png)
+![alt tag](https://raw.github.com/aaron-feldman/Scheme-Interpreter/master/example_image.png)
 
 Developing an interpreter for a subset of the Scheme language.
 
